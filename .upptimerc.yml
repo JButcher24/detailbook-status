@@ -15,6 +15,7 @@ status-website:
   cname: status.detailbook.co.uk
   name: DetailBook
   logoUrl: https://status.detailbook.co.uk/logo.svg
+  favicon: https://status.detailbook.co.uk/logo-192.png
   faviconSvg: https://status.detailbook.co.uk/logo.svg
   themeUrl: https://status.detailbook.co.uk/detailbook-theme.css
   introTitle: "**DetailBook status**"
@@ -24,3 +25,6 @@ status-website:
       href: /
     - title: Back to DetailBook
       href: https://app.detailbook.co.uk
+
+i18n:
+  footer: "[DetailBook](https://detailbook.co.uk)"
