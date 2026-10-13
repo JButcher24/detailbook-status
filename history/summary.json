@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 275,
-    "timeWeek": 241,
-    "timeMonth": 254,
-    "timeYear": 254,
+    "time": 247,
+    "timeDay": 157,
+    "timeWeek": 230,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,20 @@
     "url": "https://detailbook.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/detailbook.co.uk.ico",
     "slug": "detail-book-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 757,
-    "timeWeek": 638,
-    "timeMonth": 530,
-    "timeYear": 530,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "84.68%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
+    "time": 528,
+    "timeDay": 504,
+    "timeWeek": 557,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {
+      "2026-10-13": 200,
+      "2026-10-12": 20
+    }
   }
 ]
