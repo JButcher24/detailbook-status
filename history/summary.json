@@ -22,20 +22,21 @@
     "url": "https://detailbook.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/detailbook.co.uk.ico",
     "slug": "detail-book-website",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
-    "time": 496,
-    "timeDay": 435,
-    "timeWeek": 470,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "status": "up",
+    "uptime": "98.17%",
+    "uptimeDay": "82.41%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
+    "time": 523,
+    "timeDay": 651,
+    "timeWeek": 538,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2026-10-13": 200,
-      "2026-10-12": 20
+      "2026-10-12": 20,
+      "2026-10-18": 253
     }
   }
 ]
